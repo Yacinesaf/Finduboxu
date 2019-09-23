@@ -1,0 +1,185 @@
+.body {
+    margin-left: 10%;
+    padding-top: 150px;
+    margin-right: 10%;
+}
+
+#body-content {
+    display: flex;
+}
+
+#slogan1 {
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+#slogan2 {
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+
+#phone {
+    height: 400px;
+    width: 260px;
+    position: absolute;
+    right: 30%;
+}
+
+#some-text {
+    font-size: 0.9em;
+    color: darkgray;
+    margin-top: 40px;
+}
+
+.buttons {
+    display: flex;
+}
+
+.ios-button {
+    margin-top: 80px;
+    height: 80px;
+    width: 200px;
+    border: 0.5px solid rgb(185, 185, 185);
+    display: flex;
+    margin-right: 10px;
+    /* box-shadow: 10px 13px 13px -3px rgba(186,186,186,1); */
+
+}
+
+#apple {
+    height: 45px;
+    width: 45px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#available-iphone {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#appstore {
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.android-button {
+    margin-top: 80px;
+    height: 80px;
+    width: 200px;
+    border: 0.5px solid rgb(185, 185, 185);
+    background-color: black;
+    display: flex;
+    /* box-shadow: 10px 13px 13px -3px rgba(186,186,186,1); */
+
+}
+
+#android {
+    height: 45px;
+    width: 45px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#available-android {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white;
+}
+#playstore {
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 10px;
+    color: white;
+}
+
+.container {
+    
+    display: flex;
+    height: 160px;
+    width: 90%;
+    box-shadow: 10px 10px 24px -8px rgba(161,161,161,1);
+    margin-top : 10%;
+    align-items: center;
+    justify-content: center
+    
+}
+
+.k100-container {
+    width : 300px;
+    border-right: 1.5px solid rgb(206, 206, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.k10-container {
+    width : 300px;
+    border-right: 1.5px solid rgb(206, 206, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.k50-container {
+    width : 300px;
+    border-right: 1.5px solid rgb(206, 206, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.percent-container {
+    width : 300px;
+    border-right: 1.5px solid rgb(206, 206, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.k15-container {
+    width : 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#k100 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#k10 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#k50 {
+    font-size: 35px;
+    font-weight: bold;   
+}
+
+#percent {
+    font-size: 35px;
+    font-weight: bold;    
+}
+
+#k15 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+#container-height {
+    height: 80px;
+    display: flex;
+}
